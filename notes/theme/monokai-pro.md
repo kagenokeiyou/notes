@@ -1,5 +1,0 @@
-# Monokai Pro
-
-`id@chinapyg.com`
-
-`d055c-36b72-151ce-350f4-a8f69`
